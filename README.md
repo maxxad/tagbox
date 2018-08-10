@@ -1,6 +1,6 @@
 # tagbox
 
-### Tagbox is an addition to a wordpress plugin - namely, [DWQA](https://www.designwall.com/wordpress/plugins/dw-question-answer/). 
+### Tagbox is an addition to a wordpress plugin called [DWQA](https://www.designwall.com/wordpress/plugins/dw-question-answer/). 
 
 <br>
 
