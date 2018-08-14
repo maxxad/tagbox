@@ -22,7 +22,8 @@ We started using DWQA for our questions and answers website and it felt quite OK
 
 ## How to install
 
-_to be revealed..._
+- copy the dwqa.tar file to your wordpress plugin folder and unpack it
+- restart wordpress
 
 <br>
 
@@ -35,5 +36,4 @@ The addon is tested on wordpress 4.8.5
 # ToDo
 
 * add support for multiple tags
-* push code
 * 
