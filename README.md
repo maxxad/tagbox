@@ -22,7 +22,10 @@ We started using DWQA for our questions and answers website and it felt quite OK
 
 ## How to install
 
-- copy the dwqa.tar file to your wordpress plugin folder and unpack it
+- copy the dwqa.tar file to your wordpress plugin folder and unpack it 
+
+``` tar xvf dwqa.tar ```
+
 - restart wordpress
 
 <br>
